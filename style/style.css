@@ -1,0 +1,63 @@
+
+
+h1{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.contenedor{
+    background-color: azure;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: row;
+  
+}
+body{
+    background-color: aquamarine;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 20%;
+}
+.lugar{
+  width: auto;
+}
+.ajuste{
+    font-size: 20px;
+    margin-left: 80%;
+ 
+  
+}
+.menu{
+    margin-top: 5%;
+    height: 35px;
+    margin-bottom: 5%;
+    background-color: white;
+}
+.portada{
+    margin:2%;
+    width: 80%;
+    height: 50%;
+    border-radius: 10%;
+}
+.img{
+    border-radius: 10%;
+    width: 80%;
+    height: 300px;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top:5%;
+}
+article{
+    display: flex;
+    flex-direction:row;
+}
+.info{
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+.titulo{
+    margin-left: 15%;
+    margin-right: 15%;
+}
